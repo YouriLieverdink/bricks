@@ -1,3 +1,5 @@
 bricks:
   flutter_widget:
     path: ./bricks/flutter_widget
+  dot_github:
+    path: ./bricks/dot_github
