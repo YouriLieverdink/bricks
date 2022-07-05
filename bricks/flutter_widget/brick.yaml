@@ -1,0 +1,12 @@
+name: flutter_widget
+description: A stateless widget for Flutter
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  name:
+    type: string
+    default: flutter_widget
+    prompt: What is the name of the widget?
