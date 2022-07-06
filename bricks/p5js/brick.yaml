@@ -1,0 +1,12 @@
+name: p5js
+description: A basic p5js project
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  name:
+    type: string
+    default: basic_p5js
+    prompt: What is the name of the project?

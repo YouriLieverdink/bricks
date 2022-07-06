@@ -3,3 +3,5 @@ bricks:
     path: ./bricks/flutter_widget
   dot_github:
     path: ./bricks/dot_github
+  p5js:
+    path: ./bricks/p5js
